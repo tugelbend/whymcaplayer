@@ -1,11 +1,15 @@
-# whymcaplayer
-Small processing script to play mp3 tracks according to a playlist when a button on a Playstation Move Controller is pressed.
+# whYMCAplayer
+Small processing script to play mp3 tracks according to a dynamic playlist when a button on a Playstation Move Controller is pressed.
 
 This script has been used to play 20 second long tracks (different versions of the "YMCA" refrain) when someone hits a buzzer. Check the source code for details.
 
-The buzzer has been connected to a Playstation Move Controller. Therefore you will need the PSMove API (https://thp.io/2010/psmove/).
+The buzzer has been connected to a Playstation Move Controller. Therefore you will need the PSMove API (https://thp.io/2010/psmove/) installed on your computer.
 
 The script can also be used using the keyboard.
+
+"No big deal" you might say and you are right ;-). I just uploaded it here as an processing mp3 player example and for my personal backup of course.
+
+Script has been tested with Processing 2.2.1 on linux.
 
 ## General usage
 

@@ -7,7 +7,7 @@ The buzzer has been connected to a Playstation Move Controller. Therefore you wi
 
 The script can also be used using the keyboard.
 
-"No big deal" you might say and you are right ;-). I just uploaded it here as an processing mp3 player example and for my personal backup of course.
+"No big deal" you might say and you are right ;-). I just uploaded it here as a processing mp3 player example and for my personal backup of course.
 
 Script has been tested with Processing 2.2.1 on linux.
 
